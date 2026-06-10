@@ -1,0 +1,18 @@
+{
+  "name": "the-word-exists-or-not",
+  "version": "1.0.0",
+  "description": "Repositorio creado para el entrenamiento y perfeccionamiento en el uso de métodos de strings, normalización de datos y pruebas automatizadas con **Vitest**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts":{
+      "test": "vitest"
+
+  },
+  "keywords": [],
+  "author": "Luisa María Cortés",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitest": "^4.1.7"
+  }
+}
