@@ -29,7 +29,7 @@ El objetivo es implementar una función que invierta el orden de las palabras en
 
 Para poner en marcha este ejercicio, sigue estos pasos desde la terminal en la raíz del proyecto:
 
-````markdown
+markdown
 
 ## Instalación y ejecución
 
@@ -48,7 +48,7 @@ Tener instalado [Node.js](https://nodejs.org/).
 3. Ejecuta los tests:
 ```bash
    npm test
-```
+
 
 ## Tests
 
@@ -76,7 +76,7 @@ MICROEJERCICIOS-JAVA/
 ├── README.md
 ├── vitest.config.js
 └── .gitignore
-````
+```
 
  ## 👨‍💻 Autora
 
