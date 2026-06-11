@@ -24,6 +24,7 @@ El objetivo es implementar una función que invierta el orden de las palabras en
 - JavaScript (ES6 Modules)
 - Vitest (Testing unitario)
 
+
 ## Instrucciones de ejecución
 
 Para poner en marcha este ejercicio, sigue estos pasos desde la terminal en la raíz del proyecto:
@@ -49,6 +50,10 @@ Tener instalado [Node.js](https://nodejs.org/).
    npm test
 ```
 
+## Tests
+
+![Resultados de tests reverse words](/MICROEJERCICIOS/assets/test-reverse.png)
+
 ## Estructura del proyecto
 
 ```
@@ -72,7 +77,6 @@ MICROEJERCICIOS-JAVA/
 ├── vitest.config.js
 └── .gitignore
 ````
-
 
  ## 👨‍💻 Autora
 
