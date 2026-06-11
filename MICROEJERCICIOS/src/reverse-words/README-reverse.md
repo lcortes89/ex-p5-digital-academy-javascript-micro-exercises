@@ -1,7 +1,6 @@
 # Ejercicio: Inversor de Palabras
 
-🔗 [Repositorio] (https://github.com/lcortes89/ex-p5-digital-academy-javascript-micro-exercises) · [GitHub Pages](https://TU_USUARIO.github.io/TU_REPOSITORIO)
-
+🔗 [Repositorio] (https://github.com/lcortes89/ex-p5-digital-academy-javascript-micro-exercises)
 ## Descripción del problema
 El objetivo es implementar una función que invierta el orden de las palabras en una cadena de texto (*string*). El programa debe ser capaz de procesar cadenas con formato irregular, asegurando que el resultado final sea limpio y coherente.
 
