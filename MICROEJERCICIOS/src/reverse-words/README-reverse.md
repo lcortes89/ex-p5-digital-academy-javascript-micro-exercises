@@ -48,9 +48,9 @@ Tener instalado [Node.js](https://nodejs.org/).
 3. Ejecuta los tests:
 ```bash
    npm test
+```
 
-
-## Tests
+## Tests reverse words
 
 ![Resultados de tests reverse words](../../assets/img/test-reverse.png)
 
