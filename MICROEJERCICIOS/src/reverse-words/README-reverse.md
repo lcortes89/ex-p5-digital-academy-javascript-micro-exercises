@@ -39,7 +39,7 @@ Tener instalado [Node.js](https://nodejs.org/).
 ### Pasos
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/lcortes89/ex-p5-digital-academy-javascript-micro-exercises
 ```
 2. Instala las dependencias:
 ```bash
@@ -52,7 +52,7 @@ Tener instalado [Node.js](https://nodejs.org/).
 
 ## Tests
 
-![Resultados de tests reverse words](/MICROEJERCICIOS/assets/test-reverse.png)
+![Resultados de tests reverse words](../assets/img/test-reverse.pngtest-reverse.png)
 
 ## Estructura del proyecto
 
