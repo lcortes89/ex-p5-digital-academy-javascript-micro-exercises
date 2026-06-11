@@ -52,7 +52,7 @@ Tener instalado [Node.js](https://nodejs.org/).
 
 ## Tests
 
-![Resultados de tests reverse words](../assets/img/test-reverse.pngtest-reverse.png)
+![Resultados de tests reverse words](../assets/img/test-reverse.png)
 
 ## Estructura del proyecto
 
