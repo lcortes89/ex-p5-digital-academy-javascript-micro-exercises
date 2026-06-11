@@ -29,7 +29,7 @@ El objetivo es implementar una función que invierta el orden de las palabras en
 
 Para poner en marcha este ejercicio, sigue estos pasos desde la terminal en la raíz del proyecto:
 
-````markdown
+markdown
 
 ## Instalación y ejecución
 
@@ -39,7 +39,7 @@ Tener instalado [Node.js](https://nodejs.org/).
 ### Pasos
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/lcortes89/ex-p5-digital-academy-javascript-micro-exercises
 ```
 2. Instala las dependencias:
 ```bash
@@ -50,9 +50,9 @@ Tener instalado [Node.js](https://nodejs.org/).
    npm test
 ```
 
-## Tests
+## Tests reverse words
 
-![Resultados de tests reverse words](/MICROEJERCICIOS/assets/test-reverse.png)
+![Resultados de tests reverse words](../../assets/img/test-reverse.png)
 
 ## Estructura del proyecto
 
@@ -76,7 +76,7 @@ MICROEJERCICIOS-JAVA/
 ├── README.md
 ├── vitest.config.js
 └── .gitignore
-````
+```
 
  ## 👨‍💻 Autora
 
